@@ -307,9 +307,10 @@ p, address {
 }
 
 .tm-nav-link {
-  color: white;
-  text-decoration: none;
-  padding-bottom: 10px;
+  background-color: rgb(17 17 17);
+    color: #ffffff;
+    text-decoration: none;
+    padding-bottom: 10px;
 }
 
 .tm-nav-link.active,
